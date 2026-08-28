@@ -1,0 +1,133 @@
+{
+ "created": "2026-08-27",
+ "cash": 39.89120012833155,
+ "positions": {
+  "MU": {
+   "shares": 10.674697017962954,
+   "cost_basis": 935.3900146484375
+  },
+  "TJX": {
+   "shares": 74.40109040514348,
+   "cost_basis": 134.22000122070312
+  },
+  "CB": {
+   "shares": 29.521334815344492,
+   "cost_basis": 338.30999755859375
+  },
+  "AAPL": {
+   "shares": 31.7527811741842,
+   "cost_basis": 314.5799865722656
+  },
+  "JNJ": {
+   "shares": 37.590603479081764,
+   "cost_basis": 265.7699890136719
+  },
+  "PLD": {
+   "shares": 70.44379227742543,
+   "cost_basis": 141.85000610351562
+  },
+  "UNH": {
+   "shares": 25.300470285893798,
+   "cost_basis": 395.04998779296875
+  },
+  "NEE": {
+   "shares": 119.74361871125663,
+   "cost_basis": 83.47000122070312
+  },
+  "KO": {
+   "shares": 112.22771473156799,
+   "cost_basis": 89.05999755859375
+  },
+  "SO": {
+   "shares": 112.24031058360197,
+   "cost_basis": 89.05000305175781
+  }
+ },
+ "spy_units": 129.68486988216122,
+ "last_rebalance": "2026-08-27",
+ "last_rebalance_week": "2026-W35",
+ "total_costs": 49.98005439993584,
+ "trades": [
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "MU",
+   "shares": 10.6747,
+   "price": 935.39,
+   "reason": "rank 1"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "TJX",
+   "shares": 74.4011,
+   "price": 134.22,
+   "reason": "rank 2"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "CB",
+   "shares": 29.5213,
+   "price": 338.31,
+   "reason": "rank 3"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "AAPL",
+   "shares": 31.7528,
+   "price": 314.58,
+   "reason": "rank 4"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "JNJ",
+   "shares": 37.5906,
+   "price": 265.77,
+   "reason": "rank 5"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "PLD",
+   "shares": 70.4438,
+   "price": 141.85,
+   "reason": "rank 6"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "UNH",
+   "shares": 25.3005,
+   "price": 395.05,
+   "reason": "rank 7"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "NEE",
+   "shares": 119.7436,
+   "price": 83.47,
+   "reason": "rank 8"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "KO",
+   "shares": 112.2277,
+   "price": 89.06,
+   "reason": "rank 9"
+  },
+  {
+   "date": "2026-08-27",
+   "side": "BUY",
+   "ticker": "SO",
+   "shares": 112.2403,
+   "price": 89.05,
+   "reason": "rank 10"
+  }
+ ],
+ "last_mark": "2026-08-27"
+}
