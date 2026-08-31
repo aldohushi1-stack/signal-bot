@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 39.89120012833155,
+ "cash": 127.8159175057881,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -13,10 +13,6 @@
   "CB": {
    "shares": 29.521334815344492,
    "cost_basis": 338.30999755859375
-  },
-  "AAPL": {
-   "shares": 31.7527811741842,
-   "cost_basis": 314.5799865722656
   },
   "JNJ": {
    "shares": 37.590603479081764,
@@ -41,12 +37,16 @@
   "SO": {
    "shares": 112.24031058360197,
    "cost_basis": 89.05000305175781
+  },
+  "GOOGL": {
+   "shares": 29.358861414295582,
+   "cost_basis": 339.3500061035156
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-08-27",
- "last_rebalance_week": "2026-W35",
- "total_costs": 49.98005439993584,
+ "last_rebalance": "2026-08-31",
+ "last_rebalance_week": "2026-W36",
+ "total_costs": 59.99444573286376,
  "trades": [
   {
    "date": "2026-08-27",
@@ -127,7 +127,23 @@
    "shares": 112.2403,
    "price": 89.05,
    "reason": "rank 10"
+  },
+  {
+   "date": "2026-08-31",
+   "side": "SELL",
+   "ticker": "AAPL",
+   "shares": 31.7528,
+   "price": 316.85,
+   "reason": "rank 29 > 15"
+  },
+  {
+   "date": "2026-08-31",
+   "side": "BUY",
+   "ticker": "GOOGL",
+   "shares": 29.3589,
+   "price": 339.35,
+   "reason": "rank 4"
   }
  ],
- "last_mark": "2026-08-28"
+ "last_mark": "2026-08-31"
 }
