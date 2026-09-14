@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 10.001320237144682,
+ "cash": 533.3109383203555,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -10,29 +10,13 @@
    "shares": 74.40109040514348,
    "cost_basis": 134.22000122070312
   },
-  "CB": {
-   "shares": 29.521334815344492,
-   "cost_basis": 338.30999755859375
-  },
   "JNJ": {
    "shares": 37.590603479081764,
    "cost_basis": 265.7699890136719
   },
-  "CSCO": {
-   "shares": 91.26641586368714,
-   "cost_basis": 109.16999816894531
-  },
   "RTX": {
    "shares": 50.12598604694618,
    "cost_basis": 198.80999755859375
-  },
-  "ITW": {
-   "shares": 37.098658155619795,
-   "cost_basis": 268.69000244140625
-  },
-  "HON": {
-   "shares": 47.883984666195715,
-   "cost_basis": 208.24000549316406
   },
   "CAT": {
    "shares": 12.12959238819697,
@@ -41,12 +25,28 @@
   "AMD": {
    "shares": 19.745963242536387,
    "cost_basis": 505.739990234375
+  },
+  "AMGN": {
+   "shares": 25.686600126818448,
+   "cost_basis": 381.5
+  },
+  "BAC": {
+   "shares": 164.77951483494817,
+   "cost_basis": 59.470001220703125
+  },
+  "KLAC": {
+   "shares": 57.9539781217993,
+   "cost_basis": 169.08999633789062
+  },
+  "UNP": {
+   "shares": 34.374345481797455,
+   "cost_basis": 285.0799865722656
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-09-08",
- "last_rebalance_week": "2026-W37",
- "total_costs": 119.81158384347047,
+ "last_rebalance": "2026-09-14",
+ "last_rebalance_week": "2026-W38",
+ "total_costs": 159.30053926386566,
  "trades": [
   {
    "date": "2026-08-27",
@@ -239,7 +239,71 @@
    "shares": 19.746,
    "price": 505.74,
    "reason": "rank 9"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "SELL",
+   "ticker": "CB",
+   "shares": 29.5213,
+   "price": 341.85,
+   "reason": "rank 28 > 15"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "SELL",
+   "ticker": "CSCO",
+   "shares": 91.2664,
+   "price": 110.06,
+   "reason": "rank 19 > 15"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "SELL",
+   "ticker": "ITW",
+   "shares": 37.0987,
+   "price": 269.04,
+   "reason": "rank 17 > 15"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "SELL",
+   "ticker": "HON",
+   "shares": 47.884,
+   "price": 201.38,
+   "reason": "rank 21 > 15"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "BUY",
+   "ticker": "AMGN",
+   "shares": 25.6866,
+   "price": 381.5,
+   "reason": "rank 5"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "BUY",
+   "ticker": "BAC",
+   "shares": 164.7795,
+   "price": 59.47,
+   "reason": "rank 7"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "BUY",
+   "ticker": "KLAC",
+   "shares": 57.954,
+   "price": 169.09,
+   "reason": "rank 8"
+  },
+  {
+   "date": "2026-09-14",
+   "side": "BUY",
+   "ticker": "UNP",
+   "shares": 34.3743,
+   "price": 285.08,
+   "reason": "rank 9"
   }
  ],
- "last_mark": "2026-09-11"
+ "last_mark": "2026-09-14"
 }
