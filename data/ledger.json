@@ -1,14 +1,10 @@
 {
  "created": "2026-08-27",
- "cash": 533.3109383203555,
+ "cash": 1812.0129702575105,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
    "cost_basis": 935.3900146484375
-  },
-  "TJX": {
-   "shares": 74.40109040514348,
-   "cost_basis": 134.22000122070312
   },
   "JNJ": {
    "shares": 37.590603479081764,
@@ -18,14 +14,6 @@
    "shares": 50.12598604694618,
    "cost_basis": 198.80999755859375
   },
-  "CAT": {
-   "shares": 12.12959238819697,
-   "cost_basis": 822.47998046875
-  },
-  "AMD": {
-   "shares": 19.745963242536387,
-   "cost_basis": 505.739990234375
-  },
   "AMGN": {
    "shares": 25.686600126818448,
    "cost_basis": 381.5
@@ -34,19 +22,31 @@
    "shares": 164.77951483494817,
    "cost_basis": 59.470001220703125
   },
-  "KLAC": {
-   "shares": 57.9539781217993,
-   "cost_basis": 169.08999633789062
-  },
   "UNP": {
    "shares": 34.374345481797455,
    "cost_basis": 285.0799865722656
+  },
+  "MRK": {
+   "shares": 68.80049049623965,
+   "cost_basis": 149.5
+  },
+  "KO": {
+   "shares": 118.06328058904202,
+   "cost_basis": 87.12000274658203
+  },
+  "LLY": {
+   "shares": 8.829737743345694,
+   "cost_basis": 1164.8900146484375
+  },
+  "BMY": {
+   "shares": 164.2554056951697,
+   "cost_basis": 62.619998931884766
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-09-14",
- "last_rebalance_week": "2026-W38",
- "total_costs": 159.30053926386566,
+ "last_rebalance": "2026-09-21",
+ "last_rebalance_week": "2026-W39",
+ "total_costs": 201.11378103621027,
  "trades": [
   {
    "date": "2026-08-27",
@@ -303,7 +303,71 @@
    "shares": 34.3743,
    "price": 285.08,
    "reason": "rank 9"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "SELL",
+   "ticker": "TJX",
+   "shares": 74.4011,
+   "price": 130.96,
+   "reason": "rank 36 > 15"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "SELL",
+   "ticker": "CAT",
+   "shares": 12.1296,
+   "price": 816.5,
+   "reason": "rank 27 > 15"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "SELL",
+   "ticker": "AMD",
+   "shares": 19.746,
+   "price": 615.52,
+   "reason": "rank 77 > 15"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "SELL",
+   "ticker": "KLAC",
+   "shares": 57.954,
+   "price": 183.97,
+   "reason": "rank 81 > 15"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "BUY",
+   "ticker": "MRK",
+   "shares": 68.8005,
+   "price": 149.5,
+   "reason": "rank 4"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "BUY",
+   "ticker": "KO",
+   "shares": 118.0633,
+   "price": 87.12,
+   "reason": "rank 6"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "BUY",
+   "ticker": "LLY",
+   "shares": 8.8297,
+   "price": 1164.89,
+   "reason": "rank 7"
+  },
+  {
+   "date": "2026-09-21",
+   "side": "BUY",
+   "ticker": "BMY",
+   "shares": 164.2554,
+   "price": 62.62,
+   "reason": "rank 8"
   }
  ],
- "last_mark": "2026-09-18"
+ "last_mark": "2026-09-21"
 }
