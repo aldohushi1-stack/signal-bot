@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 1812.0129702575105,
+ "cash": 1921.4384760890243,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -34,19 +34,19 @@
    "shares": 118.06328058904202,
    "cost_basis": 87.12000274658203
   },
-  "LLY": {
-   "shares": 8.829737743345694,
-   "cost_basis": 1164.8900146484375
-  },
   "BMY": {
    "shares": 164.2554056951697,
    "cost_basis": 62.619998931884766
+  },
+  "SBUX": {
+   "shares": 108.54904830418992,
+   "cost_basis": 95.2699966430664
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-09-21",
- "last_rebalance_week": "2026-W39",
- "total_costs": 201.11378103621027,
+ "last_rebalance": "2026-09-28",
+ "last_rebalance_week": "2026-W40",
+ "total_costs": 211.51774990130377,
  "trades": [
   {
    "date": "2026-08-27",
@@ -367,7 +367,23 @@
    "shares": 164.2554,
    "price": 62.62,
    "reason": "rank 8"
+  },
+  {
+   "date": "2026-09-28",
+   "side": "SELL",
+   "ticker": "LLY",
+   "shares": 8.8297,
+   "price": 1184.78,
+   "reason": "rank 21 > 15"
+  },
+  {
+   "date": "2026-09-28",
+   "side": "BUY",
+   "ticker": "SBUX",
+   "shares": 108.549,
+   "price": 95.27,
+   "reason": "rank 6"
   }
  ],
- "last_mark": "2026-09-25"
+ "last_mark": "2026-09-28"
 }

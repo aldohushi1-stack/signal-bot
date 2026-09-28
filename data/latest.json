@@ -1,327 +1,345 @@
 {
- "as_of": "2026-09-25",
- "generated_utc": "2026-09-25T22:05:18+00:00",
- "universe_size": 98,
+ "as_of": "2026-09-28",
+ "generated_utc": "2026-09-28T22:06:09+00:00",
+ "universe_size": 97,
  "dropped_tickers": [
   "FI",
+  "JPM",
   "MMC"
  ],
  "portfolio": {
-  "equity": 103836.49,
-  "cash": 1812.01,
-  "spy_equity": 100032.42,
+  "equity": 103461.23,
+  "cash": 1921.44,
+  "spy_equity": 99288.03,
   "start_cash": 100000.0,
   "created": "2026-08-27",
-  "total_costs": 201.11,
+  "total_costs": 211.52,
   "positions": [
    {
     "ticker": "AMGN",
     "shares": 25.6866,
     "cost_basis": 381.5,
-    "price": 414.61,
-    "value": 10649.92,
-    "rank": 5
+    "price": 418.13,
+    "value": 10740.34,
+    "rank": 4
    },
    {
     "ticker": "BAC",
     "shares": 164.7795,
     "cost_basis": 59.47,
-    "price": 56.7,
-    "value": 9343.0,
-    "rank": 10
+    "price": 55.47,
+    "value": 9140.32,
+    "rank": 9
    },
    {
     "ticker": "BMY",
     "shares": 164.2554,
     "cost_basis": 62.62,
-    "price": 62.86,
-    "value": 10325.09,
+    "price": 63.88,
+    "value": 10492.64,
     "rank": 3
    },
    {
     "ticker": "JNJ",
     "shares": 37.5906,
     "cost_basis": 265.77,
-    "price": 271.22,
-    "value": 10195.32,
-    "rank": 6
+    "price": 271.95,
+    "value": 10222.77,
+    "rank": 10
    },
    {
     "ticker": "KO",
     "shares": 118.0633,
     "cost_basis": 87.12,
-    "price": 87.81,
-    "value": 10367.14,
-    "rank": 9
-   },
-   {
-    "ticker": "LLY",
-    "shares": 8.8297,
-    "cost_basis": 1164.89,
-    "price": 1183.46,
-    "value": 10449.64,
-    "rank": 20
+    "price": 87.18,
+    "value": 10292.76,
+    "rank": 11
    },
    {
     "ticker": "MRK",
     "shares": 68.8005,
     "cost_basis": 149.5,
-    "price": 148.78,
-    "value": 10236.14,
+    "price": 148.69,
+    "value": 10229.95,
     "rank": 2
    },
    {
     "ticker": "MU",
     "shares": 10.6747,
     "cost_basis": 935.39,
-    "price": 1082.28,
-    "value": 11553.01,
+    "price": 1053.98,
+    "value": 11250.92,
     "rank": 1
    },
    {
     "ticker": "RTX",
     "shares": 50.126,
     "cost_basis": 198.81,
-    "price": 189.4,
-    "value": 9493.86,
-    "rank": 8
+    "price": 187.66,
+    "value": 9406.64,
+    "rank": 7
+   },
+   {
+    "ticker": "SBUX",
+    "shares": 108.549,
+    "cost_basis": 95.27,
+    "price": 95.27,
+    "value": 10341.47,
+    "rank": 6
    },
    {
     "ticker": "UNP",
     "shares": 34.3743,
     "cost_basis": 285.08,
-    "price": 273.79,
-    "value": 9411.35,
-    "rank": 4
+    "price": 274.1,
+    "value": 9422.01,
+    "rank": 5
    }
   ]
  },
- "trades_today": [],
+ "trades_today": [
+  {
+   "date": "2026-09-28",
+   "side": "SELL",
+   "ticker": "LLY",
+   "shares": 8.8297,
+   "price": 1184.78,
+   "reason": "rank 21 > 15"
+  },
+  {
+   "date": "2026-09-28",
+   "side": "BUY",
+   "ticker": "SBUX",
+   "shares": 108.549,
+   "price": 95.27,
+   "reason": "rank 6"
+  }
+ ],
  "rankings": [
   {
    "ticker": "MU",
    "rank": 1,
-   "score": 2.278,
-   "momentum_12_1": 4.8123,
-   "ret_1m": 0.1533,
-   "vol_6m_daily": 0.0586,
-   "price": 1082.28
+   "score": 2.323,
+   "momentum_12_1": 4.9739,
+   "ret_1m": 0.1268,
+   "vol_6m_daily": 0.0587,
+   "price": 1053.98
   },
   {
    "ticker": "MRK",
    "rank": 2,
-   "score": 0.685,
-   "momentum_12_1": 0.9665,
-   "ret_1m": -0.0225,
+   "score": 0.602,
+   "momentum_12_1": 0.972,
+   "ret_1m": 0.0002,
    "vol_6m_daily": 0.0204,
-   "price": 148.78
+   "price": 148.69
   },
   {
    "ticker": "BMY",
    "rank": 3,
-   "score": 0.584,
-   "momentum_12_1": 0.6036,
-   "ret_1m": -0.0697,
+   "score": 0.522,
+   "momentum_12_1": 0.6163,
+   "ret_1m": -0.0459,
    "vol_6m_daily": 0.0173,
-   "price": 62.86
-  },
-  {
-   "ticker": "UNP",
-   "rank": 4,
-   "score": 0.541,
-   "momentum_12_1": 0.3705,
-   "ret_1m": -0.1145,
-   "vol_6m_daily": 0.0157,
-   "price": 273.79
+   "price": 63.88
   },
   {
    "ticker": "AMGN",
-   "rank": 5,
-   "score": 0.528,
-   "momentum_12_1": 0.6208,
-   "ret_1m": -0.0584,
+   "rank": 4,
+   "score": 0.505,
+   "momentum_12_1": 0.6561,
+   "ret_1m": -0.0432,
    "vol_6m_daily": 0.0186,
-   "price": 414.61
+   "price": 418.13
   },
   {
-   "ticker": "JNJ",
-   "rank": 6,
-   "score": 0.513,
-   "momentum_12_1": 0.5625,
-   "ret_1m": 0.0045,
-   "vol_6m_daily": 0.0136,
-   "price": 271.22
+   "ticker": "UNP",
+   "rank": 5,
+   "score": 0.498,
+   "momentum_12_1": 0.3479,
+   "ret_1m": -0.105,
+   "vol_6m_daily": 0.0157,
+   "price": 274.1
   },
   {
    "ticker": "SBUX",
-   "rank": 7,
-   "score": 0.499,
-   "momentum_12_1": 0.3203,
-   "ret_1m": -0.1256,
-   "vol_6m_daily": 0.0163,
-   "price": 94.86
+   "rank": 6,
+   "score": 0.482,
+   "momentum_12_1": 0.3121,
+   "ret_1m": -0.1118,
+   "vol_6m_daily": 0.0157,
+   "price": 95.27
   },
   {
    "ticker": "RTX",
-   "rank": 8,
-   "score": 0.447,
-   "momentum_12_1": 0.3331,
-   "ret_1m": -0.1066,
+   "rank": 7,
+   "score": 0.474,
+   "momentum_12_1": 0.3409,
+   "ret_1m": -0.1151,
    "vol_6m_daily": 0.0169,
-   "price": 189.4
-  },
-  {
-   "ticker": "KO",
-   "rank": 9,
-   "score": 0.432,
-   "momentum_12_1": 0.3834,
-   "ret_1m": -0.0194,
-   "vol_6m_daily": 0.013,
-   "price": 87.81
-  },
-  {
-   "ticker": "BAC",
-   "rank": 10,
-   "score": 0.423,
-   "momentum_12_1": 0.2231,
-   "ret_1m": -0.0842,
-   "vol_6m_daily": 0.0135,
-   "price": 56.7
-  },
-  {
-   "ticker": "PLD",
-   "rank": 11,
-   "score": 0.418,
-   "momentum_12_1": 0.2928,
-   "ret_1m": -0.0595,
-   "vol_6m_daily": 0.0138,
-   "price": 133.05
+   "price": 187.66
   },
   {
    "ticker": "MS",
+   "rank": 8,
+   "score": 0.437,
+   "momentum_12_1": 0.3824,
+   "ret_1m": -0.0988,
+   "vol_6m_daily": 0.0178,
+   "price": 193.64
+  },
+  {
+   "ticker": "BAC",
+   "rank": 9,
+   "score": 0.412,
+   "momentum_12_1": 0.1988,
+   "ret_1m": -0.0886,
+   "vol_6m_daily": 0.0134,
+   "price": 55.47
+  },
+  {
+   "ticker": "JNJ",
+   "rank": 10,
+   "score": 0.411,
+   "momentum_12_1": 0.5291,
+   "ret_1m": 0.0233,
+   "vol_6m_daily": 0.0136,
+   "price": 271.95
+  },
+  {
+   "ticker": "KO",
+   "rank": 11,
+   "score": 0.399,
+   "momentum_12_1": 0.3775,
+   "ret_1m": -0.0153,
+   "vol_6m_daily": 0.013,
+   "price": 87.18
+  },
+  {
+   "ticker": "PLD",
    "rank": 12,
-   "score": 0.404,
-   "momentum_12_1": 0.3867,
-   "ret_1m": -0.083,
-   "vol_6m_daily": 0.0179,
-   "price": 196.31
+   "score": 0.398,
+   "momentum_12_1": 0.2821,
+   "ret_1m": -0.0589,
+   "vol_6m_daily": 0.0137,
+   "price": 132.44
   },
   {
    "ticker": "VRTX",
    "rank": 13,
-   "score": 0.393,
-   "momentum_12_1": 0.4532,
-   "ret_1m": -0.0386,
-   "vol_6m_daily": 0.0171,
-   "price": 526.19
+   "score": 0.373,
+   "momentum_12_1": 0.4339,
+   "ret_1m": -0.0363,
+   "vol_6m_daily": 0.0165,
+   "price": 527.67
   },
   {
    "ticker": "NEE",
    "rank": 14,
-   "score": 0.379,
-   "momentum_12_1": 0.1648,
-   "ret_1m": -0.0899,
-   "vol_6m_daily": 0.0136,
-   "price": 76.08
+   "score": 0.355,
+   "momentum_12_1": 0.1417,
+   "ret_1m": -0.0888,
+   "vol_6m_daily": 0.0137,
+   "price": 75.49
+  },
+  {
+   "ticker": "REGN",
+   "rank": 15,
+   "score": 0.333,
+   "momentum_12_1": 0.4615,
+   "ret_1m": -0.0687,
+   "vol_6m_daily": 0.0206,
+   "price": 752.25
   },
   {
    "ticker": "CSCO",
-   "rank": 15,
-   "score": 0.362,
-   "momentum_12_1": 0.7036,
-   "ret_1m": -0.0504,
-   "vol_6m_daily": 0.0248,
-   "price": 106.7
-  },
-  {
-   "ticker": "CB",
    "rank": 16,
-   "score": 0.33,
-   "momentum_12_1": 0.2429,
-   "ret_1m": -0.0273,
-   "vol_6m_daily": 0.013,
-   "price": 333.37
+   "score": 0.329,
+   "momentum_12_1": 0.6871,
+   "ret_1m": -0.0482,
+   "vol_6m_daily": 0.0247,
+   "price": 106.74
   },
   {
-   "ticker": "VZ",
+   "ticker": "GS",
    "rank": 17,
-   "score": 0.309,
-   "momentum_12_1": 0.2417,
-   "ret_1m": -0.062,
-   "vol_6m_daily": 0.0157,
-   "price": 47.08
+   "score": 0.295,
+   "momentum_12_1": 0.3289,
+   "ret_1m": -0.1154,
+   "vol_6m_daily": 0.0217,
+   "price": 916.28
   },
   {
    "ticker": "DUK",
    "rank": 18,
-   "score": 0.307,
-   "momentum_12_1": 0.0204,
-   "ret_1m": -0.0701,
-   "vol_6m_daily": 0.0109,
-   "price": 113.35
-  },
-  {
-   "ticker": "CL",
-   "rank": 19,
-   "score": 0.305,
-   "momentum_12_1": 0.1631,
-   "ret_1m": -0.0652,
-   "vol_6m_daily": 0.0141,
-   "price": 86.06
-  },
-  {
-   "ticker": "LLY",
-   "rank": 20,
-   "score": 0.293,
-   "momentum_12_1": 0.6134,
-   "ret_1m": -0.005,
-   "vol_6m_daily": 0.0217,
-   "price": 1183.46
-  },
-  {
-   "ticker": "SCHW",
-   "rank": 21,
    "score": 0.287,
-   "momentum_12_1": 0.1994,
-   "ret_1m": -0.0947,
-   "vol_6m_daily": 0.0174,
-   "price": 99.03
+   "momentum_12_1": 0.0226,
+   "ret_1m": -0.0615,
+   "vol_6m_daily": 0.0108,
+   "price": 113.41
   },
   {
    "ticker": "SO",
-   "rank": 22,
-   "score": 0.287,
-   "momentum_12_1": -0.0179,
-   "ret_1m": -0.0766,
+   "rank": 19,
+   "score": 0.284,
+   "momentum_12_1": -0.0181,
+   "ret_1m": -0.0752,
    "vol_6m_daily": 0.0109,
-   "price": 82.88
+   "price": 82.35
+  },
+  {
+   "ticker": "CB",
+   "rank": 20,
+   "score": 0.277,
+   "momentum_12_1": 0.223,
+   "ret_1m": -0.0176,
+   "vol_6m_daily": 0.0129,
+   "price": 331.37
+  },
+  {
+   "ticker": "LLY",
+   "rank": 21,
+   "score": 0.276,
+   "momentum_12_1": 0.6562,
+   "ret_1m": 0.0074,
+   "vol_6m_daily": 0.0216,
+   "price": 1184.78
+  },
+  {
+   "ticker": "VZ",
+   "rank": 22,
+   "score": 0.266,
+   "momentum_12_1": 0.2181,
+   "ret_1m": -0.0556,
+   "vol_6m_daily": 0.0157,
+   "price": 46.68
+  },
+  {
+   "ticker": "CL",
+   "rank": 23,
+   "score": 0.265,
+   "momentum_12_1": 0.1698,
+   "ret_1m": -0.0488,
+   "vol_6m_daily": 0.0141,
+   "price": 86.52
+  },
+  {
+   "ticker": "SCHW",
+   "rank": 24,
+   "score": 0.242,
+   "momentum_12_1": 0.1546,
+   "ret_1m": -0.0902,
+   "vol_6m_daily": 0.0173,
+   "price": 98.3
   },
   {
    "ticker": "PFE",
-   "rank": 23,
-   "score": 0.263,
-   "momentum_12_1": 0.2571,
-   "ret_1m": 0.0131,
-   "vol_6m_daily": 0.0126,
-   "price": 28.67
-  },
-  {
-   "ticker": "JPM",
-   "rank": 24,
-   "score": 0.26,
-   "momentum_12_1": 0.1592,
-   "ret_1m": -0.0377,
-   "vol_6m_daily": 0.0135,
-   "price": 343.06
-  },
-  {
-   "ticker": "PEP",
    "rank": 25,
-   "score": 0.257,
-   "momentum_12_1": 0.0297,
-   "ret_1m": -0.0857,
-   "vol_6m_daily": 0.0135,
-   "price": 128.63
+   "score": 0.228,
+   "momentum_12_1": 0.2706,
+   "ret_1m": 0.025,
+   "vol_6m_daily": 0.0125,
+   "price": 28.72
   }
  ],
  "method": "0.5*z(mom 12-1) + 0.3*z(low 6m vol) + 0.2*z(1m reversal); top 10 equal weight, weekly rebalance, 5 bps/side, paper only"
