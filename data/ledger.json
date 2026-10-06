@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 1921.4384760890243,
+ "cash": 572.6800444311011,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -10,10 +10,6 @@
    "shares": 37.590603479081764,
    "cost_basis": 265.7699890136719
   },
-  "RTX": {
-   "shares": 50.12598604694618,
-   "cost_basis": 198.80999755859375
-  },
   "AMGN": {
    "shares": 25.686600126818448,
    "cost_basis": 381.5
@@ -21,10 +17,6 @@
   "BAC": {
    "shares": 164.77951483494817,
    "cost_basis": 59.470001220703125
-  },
-  "UNP": {
-   "shares": 34.374345481797455,
-   "cost_basis": 285.0799865722656
   },
   "MRK": {
    "shares": 68.80049049623965,
@@ -41,12 +33,20 @@
   "SBUX": {
    "shares": 108.54904830418992,
    "cost_basis": 95.2699966430664
+  },
+  "MS": {
+   "shares": 52.82297749959036,
+   "cost_basis": 190.19000244140625
+  },
+  "C": {
+   "shares": 78.15170735985495,
+   "cost_basis": 128.5500030517578
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-09-28",
- "last_rebalance_week": "2026-W40",
- "total_costs": 211.51774990130377,
+ "last_rebalance": "2026-10-05",
+ "last_rebalance_week": "2026-W41",
+ "total_costs": 230.95091742242104,
  "trades": [
   {
    "date": "2026-08-27",
@@ -383,7 +383,39 @@
    "shares": 108.549,
    "price": 95.27,
    "reason": "rank 6"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "SELL",
+   "ticker": "RTX",
+   "shares": 50.126,
+   "price": 184.33,
+   "reason": "rank 22 > 15"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "SELL",
+   "ticker": "UNP",
+   "shares": 34.3743,
+   "price": 277.06,
+   "reason": "rank 25 > 15"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "BUY",
+   "ticker": "MS",
+   "shares": 52.823,
+   "price": 190.19,
+   "reason": "rank 6"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "BUY",
+   "ticker": "C",
+   "shares": 78.1517,
+   "price": 128.55,
+   "reason": "rank 8"
   }
  ],
- "last_mark": "2026-10-01"
+ "last_mark": "2026-10-05"
 }
