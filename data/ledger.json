@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 572.6800444311011,
+ "cash": 1174.3352206621403,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -9,10 +9,6 @@
   "JNJ": {
    "shares": 37.590603479081764,
    "cost_basis": 265.7699890136719
-  },
-  "AMGN": {
-   "shares": 25.686600126818448,
-   "cost_basis": 381.5
   },
   "BAC": {
    "shares": 164.77951483494817,
@@ -41,12 +37,16 @@
   "C": {
    "shares": 78.15170735985495,
    "cost_basis": 128.5500030517578
+  },
+  "VZ": {
+   "shares": 236.4159997832175,
+   "cost_basis": 42.779998779296875
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-10-05",
- "last_rebalance_week": "2026-W41",
- "total_costs": 230.95091742242104,
+ "last_rebalance": "2026-10-12",
+ "last_rebalance_week": "2026-W42",
+ "total_costs": 241.3733621489446,
  "trades": [
   {
    "date": "2026-08-27",
@@ -415,7 +415,23 @@
    "shares": 78.1517,
    "price": 128.55,
    "reason": "rank 8"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "SELL",
+   "ticker": "AMGN",
+   "shares": 25.6866,
+   "price": 417.57,
+   "reason": "rank 55 > 15"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "BUY",
+   "ticker": "VZ",
+   "shares": 236.416,
+   "price": 42.78,
+   "reason": "rank 5"
   }
  ],
- "last_mark": "2026-10-08"
+ "last_mark": "2026-10-12"
 }
