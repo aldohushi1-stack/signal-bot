@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 1174.3352206621403,
+ "cash": 2968.6970150087545,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -18,17 +18,9 @@
    "shares": 68.80049049623965,
    "cost_basis": 149.5
   },
-  "KO": {
-   "shares": 118.06328058904202,
-   "cost_basis": 87.12000274658203
-  },
   "BMY": {
    "shares": 164.2554056951697,
    "cost_basis": 62.619998931884766
-  },
-  "SBUX": {
-   "shares": 108.54904830418992,
-   "cost_basis": 95.2699966430664
   },
   "MS": {
    "shares": 52.82297749959036,
@@ -41,12 +33,20 @@
   "VZ": {
    "shares": 236.4159997832175,
    "cost_basis": 42.779998779296875
+  },
+  "SCHW": {
+   "shares": 110.72814433662401,
+   "cost_basis": 89.58000183105469
+  },
+  "DE": {
+   "shares": 15.819820370692291,
+   "cost_basis": 627.0
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-10-12",
- "last_rebalance_week": "2026-W42",
- "total_costs": 241.3733621489446,
+ "last_rebalance": "2026-10-19",
+ "last_rebalance_week": "2026-W43",
+ "total_costs": 262.12393507211124,
  "trades": [
   {
    "date": "2026-08-27",
@@ -431,7 +431,39 @@
    "shares": 236.416,
    "price": 42.78,
    "reason": "rank 5"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "SELL",
+   "ticker": "KO",
+   "shares": 118.0633,
+   "price": 93.42,
+   "reason": "rank 17 > 15"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "SELL",
+   "ticker": "SBUX",
+   "shares": 108.549,
+   "price": 97.87,
+   "reason": "rank 34 > 15"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "BUY",
+   "ticker": "SCHW",
+   "shares": 110.7281,
+   "price": 89.58,
+   "reason": "rank 8"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "BUY",
+   "ticker": "DE",
+   "shares": 15.8198,
+   "price": 627.0,
+   "reason": "rank 9"
   }
  ],
- "last_mark": "2026-10-16"
+ "last_mark": "2026-10-19"
 }
