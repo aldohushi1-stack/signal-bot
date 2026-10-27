@@ -1,15 +1,15 @@
 {
- "as_of": "2026-10-22",
- "generated_utc": "2026-10-24T00:10:21+00:00",
+ "as_of": "2026-10-23",
+ "generated_utc": "2026-10-27T01:01:44+00:00",
  "universe_size": 98,
  "dropped_tickers": [
   "FI",
   "MMC"
  ],
  "portfolio": {
-  "equity": 101351.45,
+  "equity": 100395.3,
   "cash": 2968.7,
-  "spy_equity": 99074.06,
+  "spy_equity": 98556.61,
   "start_cash": 100000.0,
   "created": "2026-08-27",
   "total_costs": 262.12,
@@ -18,81 +18,81 @@
     "ticker": "BAC",
     "shares": 164.7795,
     "cost_basis": 59.47,
-    "price": 51.08,
-    "value": 8416.94,
+    "price": 50.56,
+    "value": 8331.25,
     "rank": 8
    },
    {
     "ticker": "BMY",
     "shares": 164.2554,
     "cost_basis": 62.62,
-    "price": 63.0,
-    "value": 10348.09,
-    "rank": 14
+    "price": 61.48,
+    "value": 10098.42,
+    "rank": 11
    },
    {
     "ticker": "C",
     "shares": 78.1517,
     "cost_basis": 128.55,
-    "price": 122.51,
-    "value": 9574.37,
-    "rank": 5
+    "price": 120.62,
+    "value": 9426.66,
+    "rank": 4
    },
    {
     "ticker": "DE",
     "shares": 15.8198,
     "cost_basis": 627.0,
-    "price": 643.62,
-    "value": 10181.95,
-    "rank": 4
+    "price": 646.15,
+    "value": 10221.98,
+    "rank": 7
    },
    {
     "ticker": "JNJ",
     "shares": 37.5906,
     "cost_basis": 265.77,
-    "price": 267.61,
-    "value": 10059.62,
-    "rank": 6
+    "price": 263.81,
+    "value": 9916.78,
+    "rank": 5
    },
    {
     "ticker": "MRK",
     "shares": 68.8005,
     "cost_basis": 149.5,
-    "price": 147.24,
-    "value": 10130.18,
+    "price": 145.27,
+    "value": 9994.65,
     "rank": 3
    },
    {
     "ticker": "MS",
     "shares": 52.823,
     "cost_basis": 190.19,
-    "price": 183.97,
-    "value": 9717.84,
+    "price": 179.49,
+    "value": 9481.2,
     "rank": 9
    },
    {
     "ticker": "MU",
     "shares": 10.6747,
     "cost_basis": 935.39,
-    "price": 856.49,
-    "value": 9142.77,
+    "price": 877.55,
+    "value": 9367.58,
     "rank": 1
    },
    {
     "ticker": "SCHW",
     "shares": 110.7281,
     "cost_basis": 89.58,
-    "price": 91.44,
-    "value": 10124.98,
-    "rank": 13
+    "price": 90.58,
+    "value": 10029.76,
+    "rank": 14
    },
    {
     "ticker": "VZ",
     "shares": 236.416,
     "cost_basis": 42.78,
-    "price": 45.2,
-    "value": 10686.0,
-    "rank": 23
+    "price": 44.66,
+    "value": 10558.34,
+    "rank": 15
    }
   ]
  },
@@ -101,227 +101,227 @@
   {
    "ticker": "MU",
    "rank": 1,
-   "score": 3.15,
-   "momentum_12_1": 4.3039,
-   "ret_1m": -0.2008,
-   "vol_6m_daily": 0.0575,
-   "price": 856.49
+   "score": 3.084,
+   "momentum_12_1": 4.4496,
+   "ret_1m": -0.1877,
+   "vol_6m_daily": 0.0574,
+   "price": 877.55
   },
   {
    "ticker": "AMD",
    "rank": 2,
-   "score": 0.833,
-   "momentum_12_1": 1.5821,
-   "ret_1m": -0.1736,
-   "vol_6m_daily": 0.048,
-   "price": 507.93
+   "score": 0.957,
+   "momentum_12_1": 1.7332,
+   "ret_1m": -0.1787,
+   "vol_6m_daily": 0.0465,
+   "price": 516.79
   },
   {
    "ticker": "MRK",
    "rank": 3,
-   "score": 0.669,
-   "momentum_12_1": 0.7397,
-   "ret_1m": -0.0057,
-   "vol_6m_daily": 0.0206,
-   "price": 147.24
-  },
-  {
-   "ticker": "DE",
-   "rank": 4,
-   "score": 0.638,
-   "momentum_12_1": 0.5568,
-   "ret_1m": -0.0907,
-   "vol_6m_daily": 0.0213,
-   "price": 643.62
+   "score": 0.658,
+   "momentum_12_1": 0.7387,
+   "ret_1m": -0.0183,
+   "vol_6m_daily": 0.0205,
+   "price": 145.27
   },
   {
    "ticker": "C",
-   "rank": 5,
-   "score": 0.584,
-   "momentum_12_1": 0.3712,
-   "ret_1m": -0.0714,
+   "rank": 4,
+   "score": 0.616,
+   "momentum_12_1": 0.4008,
+   "ret_1m": -0.0869,
    "vol_6m_daily": 0.0168,
-   "price": 122.51
+   "price": 120.62
   },
   {
    "ticker": "JNJ",
-   "rank": 6,
-   "score": 0.57,
-   "momentum_12_1": 0.4344,
-   "ret_1m": -0.0058,
+   "rank": 5,
+   "score": 0.584,
+   "momentum_12_1": 0.4345,
+   "ret_1m": -0.0254,
    "vol_6m_daily": 0.0152,
-   "price": 267.61
+   "price": 263.81
   },
   {
    "ticker": "CAT",
+   "rank": 6,
+   "score": 0.541,
+   "momentum_12_1": 0.5765,
+   "ret_1m": -0.1468,
+   "vol_6m_daily": 0.0267,
+   "price": 687.0
+  },
+  {
+   "ticker": "DE",
    "rank": 7,
-   "score": 0.534,
-   "momentum_12_1": 0.5572,
-   "ret_1m": -0.133,
-   "vol_6m_daily": 0.0266,
-   "price": 704.05
+   "score": 0.54,
+   "momentum_12_1": 0.5166,
+   "ret_1m": -0.068,
+   "vol_6m_daily": 0.0208,
+   "price": 646.15
   },
   {
    "ticker": "BAC",
    "rank": 8,
-   "score": 0.489,
-   "momentum_12_1": 0.1101,
-   "ret_1m": -0.0879,
+   "score": 0.502,
+   "momentum_12_1": 0.1199,
+   "ret_1m": -0.0976,
    "vol_6m_daily": 0.0134,
-   "price": 51.08
+   "price": 50.56
   },
   {
    "ticker": "MS",
    "rank": 9,
-   "score": 0.482,
-   "momentum_12_1": 0.2742,
-   "ret_1m": -0.0727,
-   "vol_6m_daily": 0.0171,
-   "price": 183.97
-  },
-  {
-   "ticker": "PLD",
-   "rank": 10,
-   "score": 0.391,
-   "momentum_12_1": 0.0966,
-   "ret_1m": -0.0545,
-   "vol_6m_daily": 0.0139,
-   "price": 126.66
-  },
-  {
-   "ticker": "PANW",
-   "rank": 11,
-   "score": 0.388,
-   "momentum_12_1": 0.8344,
-   "ret_1m": -0.0976,
-   "vol_6m_daily": 0.0362,
-   "price": 354.92
+   "score": 0.477,
+   "momentum_12_1": 0.2697,
+   "ret_1m": -0.0857,
+   "vol_6m_daily": 0.0172,
+   "price": 179.49
   },
   {
    "ticker": "JPM",
-   "rank": 12,
-   "score": 0.38,
-   "momentum_12_1": 0.1523,
-   "ret_1m": 0.002,
+   "rank": 10,
+   "score": 0.414,
+   "momentum_12_1": 0.1675,
+   "ret_1m": -0.0157,
    "vol_6m_daily": 0.0125,
-   "price": 336.54
-  },
-  {
-   "ticker": "SCHW",
-   "rank": 13,
-   "score": 0.35,
-   "momentum_12_1": 0.0598,
-   "ret_1m": -0.081,
-   "vol_6m_daily": 0.0155,
-   "price": 91.44
+   "price": 331.58
   },
   {
    "ticker": "BMY",
-   "rank": 14,
-   "score": 0.344,
-   "momentum_12_1": 0.4193,
-   "ret_1m": 0.0409,
-   "vol_6m_daily": 0.0185,
-   "price": 63.0
+   "rank": 11,
+   "score": 0.388,
+   "momentum_12_1": 0.4323,
+   "ret_1m": 0.01,
+   "vol_6m_daily": 0.0186,
+   "price": 61.48
+  },
+  {
+   "ticker": "PLD",
+   "rank": 12,
+   "score": 0.377,
+   "momentum_12_1": 0.0958,
+   "ret_1m": -0.0551,
+   "vol_6m_daily": 0.0139,
+   "price": 126.45
   },
   {
    "ticker": "GOOGL",
-   "rank": 15,
-   "score": 0.332,
-   "momentum_12_1": 0.3523,
-   "ret_1m": -0.0403,
+   "rank": 13,
+   "score": 0.366,
+   "momentum_12_1": 0.3638,
+   "ret_1m": -0.0647,
    "vol_6m_daily": 0.0216,
-   "price": 324.22
+   "price": 320.21
   },
   {
-   "ticker": "XOM",
-   "rank": 16,
-   "score": 0.331,
-   "momentum_12_1": 0.4719,
-   "ret_1m": 0.1054,
-   "vol_6m_daily": 0.0166,
-   "price": 178.23
-  },
-  {
-   "ticker": "CSCO",
-   "rank": 17,
-   "score": 0.313,
-   "momentum_12_1": 0.5269,
-   "ret_1m": -0.0106,
-   "vol_6m_daily": 0.0251,
-   "price": 104.89
-  },
-  {
-   "ticker": "KO",
-   "rank": 18,
-   "score": 0.306,
-   "momentum_12_1": 0.2698,
-   "ret_1m": 0.0823,
-   "vol_6m_daily": 0.0132,
-   "price": 95.34
-  },
-  {
-   "ticker": "AAPL",
-   "rank": 19,
-   "score": 0.299,
-   "momentum_12_1": 0.2873,
-   "ret_1m": 0.0332,
-   "vol_6m_daily": 0.0166,
-   "price": 348.22
-  },
-  {
-   "ticker": "CVX",
-   "rank": 20,
-   "score": 0.296,
-   "momentum_12_1": 0.389,
-   "ret_1m": 0.103,
-   "vol_6m_daily": 0.0155,
-   "price": 226.68
-  },
-  {
-   "ticker": "PFE",
-   "rank": 21,
-   "score": 0.288,
-   "momentum_12_1": 0.2135,
-   "ret_1m": 0.0795,
-   "vol_6m_daily": 0.0124,
-   "price": 30.42
-  },
-  {
-   "ticker": "GS",
-   "rank": 22,
-   "score": 0.287,
-   "momentum_12_1": 0.258,
-   "ret_1m": -0.0481,
-   "vol_6m_daily": 0.0208,
-   "price": 891.3
+   "ticker": "SCHW",
+   "rank": 14,
+   "score": 0.36,
+   "momentum_12_1": 0.0684,
+   "ret_1m": -0.0896,
+   "vol_6m_daily": 0.0156,
+   "price": 90.58
   },
   {
    "ticker": "VZ",
-   "rank": 23,
-   "score": 0.284,
-   "momentum_12_1": 0.2124,
-   "ret_1m": -0.0133,
-   "vol_6m_daily": 0.0177,
-   "price": 45.2
+   "rank": 15,
+   "score": 0.356,
+   "momentum_12_1": 0.2487,
+   "ret_1m": -0.0416,
+   "vol_6m_daily": 0.0176,
+   "price": 44.66
+  },
+  {
+   "ticker": "KO",
+   "rank": 16,
+   "score": 0.346,
+   "momentum_12_1": 0.2772,
+   "ret_1m": 0.0523,
+   "vol_6m_daily": 0.0134,
+   "price": 92.71
+  },
+  {
+   "ticker": "PFE",
+   "rank": 17,
+   "score": 0.331,
+   "momentum_12_1": 0.2299,
+   "ret_1m": 0.057,
+   "vol_6m_daily": 0.0124,
+   "price": 30.03
+  },
+  {
+   "ticker": "AAPL",
+   "rank": 18,
+   "score": 0.291,
+   "momentum_12_1": 0.3045,
+   "ret_1m": 0.0352,
+   "vol_6m_daily": 0.0166,
+   "price": 347.73
+  },
+  {
+   "ticker": "T",
+   "rank": 19,
+   "score": 0.286,
+   "momentum_12_1": 0.0319,
+   "ret_1m": -0.1683,
+   "vol_6m_daily": 0.021,
+   "price": 20.93
   },
   {
    "ticker": "CB",
-   "rank": 24,
-   "score": 0.283,
-   "momentum_12_1": 0.2563,
-   "ret_1m": 0.0857,
-   "vol_6m_daily": 0.0133,
-   "price": 363.95
+   "rank": 20,
+   "score": 0.282,
+   "momentum_12_1": 0.222,
+   "ret_1m": 0.0605,
+   "vol_6m_daily": 0.0134,
+   "price": 355.11
   },
   {
-   "ticker": "REGN",
+   "ticker": "GS",
+   "rank": 21,
+   "score": 0.275,
+   "momentum_12_1": 0.2644,
+   "ret_1m": -0.0516,
+   "vol_6m_daily": 0.0208,
+   "price": 875.68
+  },
+  {
+   "ticker": "CSCO",
+   "rank": 22,
+   "score": 0.267,
+   "momentum_12_1": 0.5359,
+   "ret_1m": -0.0005,
+   "vol_6m_daily": 0.0251,
+   "price": 106.5
+  },
+  {
+   "ticker": "ITW",
+   "rank": 23,
+   "score": 0.262,
+   "momentum_12_1": 0.0957,
+   "ret_1m": 0.0204,
+   "vol_6m_daily": 0.0129,
+   "price": 275.75
+  },
+  {
+   "ticker": "UNP",
+   "rank": 24,
+   "score": 0.258,
+   "momentum_12_1": 0.2424,
+   "ret_1m": 0.0686,
+   "vol_6m_daily": 0.0141,
+   "price": 292.87
+  },
+  {
+   "ticker": "GE",
    "rank": 25,
-   "score": 0.271,
-   "momentum_12_1": 0.3911,
-   "ret_1m": 0.0215,
-   "vol_6m_daily": 0.0209,
-   "price": 819.09
+   "score": 0.257,
+   "momentum_12_1": 0.0776,
+   "ret_1m": -0.1054,
+   "vol_6m_daily": 0.0195,
+   "price": 285.64
   }
  ],
  "method": "0.5*z(mom 12-1) + 0.3*z(low 6m vol) + 0.2*z(1m reversal); top 10 equal weight, weekly rebalance, 5 bps/side, paper only"
