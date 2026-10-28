@@ -44,8 +44,8 @@
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-10-19",
- "last_rebalance_week": "2026-W43",
+ "last_rebalance": "2026-10-26",
+ "last_rebalance_week": "2026-W44",
  "total_costs": 262.12393507211124,
  "trades": [
   {
@@ -465,5 +465,5 @@
    "reason": "rank 9"
   }
  ],
- "last_mark": "2026-10-23"
+ "last_mark": "2026-10-26"
 }
