@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 2968.6970150087545,
+ "cash": 2873.112890008404,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -22,31 +22,31 @@
    "shares": 164.2554056951697,
    "cost_basis": 62.619998931884766
   },
-  "MS": {
-   "shares": 52.82297749959036,
-   "cost_basis": 190.19000244140625
-  },
   "C": {
    "shares": 78.15170735985495,
    "cost_basis": 128.5500030517578
   },
-  "VZ": {
-   "shares": 236.4159997832175,
-   "cost_basis": 42.779998779296875
-  },
-  "SCHW": {
-   "shares": 110.72814433662401,
-   "cost_basis": 89.58000183105469
-  },
   "DE": {
    "shares": 15.819820370692291,
    "cost_basis": 627.0
+  },
+  "AMD": {
+   "shares": 21.670026614650485,
+   "cost_basis": 466.8399963378906
+  },
+  "CAT": {
+   "shares": 16.486482229923773,
+   "cost_basis": 613.6199951171875
+  },
+  "TXN": {
+   "shares": 33.49591256679197,
+   "cost_basis": 302.0199890136719
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-10-26",
- "last_rebalance_week": "2026-W44",
- "total_costs": 262.12393507211124,
+ "last_rebalance": "2026-11-02",
+ "last_rebalance_week": "2026-W45",
+ "total_costs": 292.44820170112183,
  "trades": [
   {
    "date": "2026-08-27",
@@ -463,7 +463,55 @@
    "shares": 15.8198,
    "price": 627.0,
    "reason": "rank 9"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "SELL",
+   "ticker": "MS",
+   "shares": 52.823,
+   "price": 185.73,
+   "reason": "rank 23 > 15"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "SELL",
+   "ticker": "VZ",
+   "shares": 236.416,
+   "price": 45.05,
+   "reason": "rank 21 > 15"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "SELL",
+   "ticker": "SCHW",
+   "shares": 110.7281,
+   "price": 88.71,
+   "reason": "rank 20 > 15"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "BUY",
+   "ticker": "AMD",
+   "shares": 21.67,
+   "price": 466.84,
+   "reason": "rank 2"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "BUY",
+   "ticker": "CAT",
+   "shares": 16.4865,
+   "price": 613.62,
+   "reason": "rank 3"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "BUY",
+   "ticker": "TXN",
+   "shares": 33.4959,
+   "price": 302.02,
+   "reason": "rank 5"
   }
  ],
- "last_mark": "2026-10-29"
+ "last_mark": "2026-11-02"
 }
