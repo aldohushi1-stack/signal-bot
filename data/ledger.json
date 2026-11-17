@@ -1,22 +1,14 @@
 {
  "created": "2026-08-27",
- "cash": 1932.1535100573383,
+ "cash": 1856.6489803470831,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
    "cost_basis": 935.3900146484375
   },
-  "JNJ": {
-   "shares": 37.590603479081764,
-   "cost_basis": 265.7699890136719
-  },
   "MRK": {
    "shares": 68.80049049623965,
    "cost_basis": 149.5
-  },
-  "C": {
-   "shares": 78.15170735985495,
-   "cost_basis": 128.5500030517578
   },
   "AMD": {
    "shares": 21.670026614650485,
@@ -34,19 +26,27 @@
    "shares": 102.66391108465183,
    "cost_basis": 98.6500015258789
   },
-  "PANW": {
-   "shares": 30.60773833237045,
-   "cost_basis": 330.8900146484375
-  },
   "XOM": {
    "shares": 61.481182831479096,
    "cost_basis": 164.72999572753906
+  },
+  "CVX": {
+   "shares": 45.78165619821235,
+   "cost_basis": 217.13999938964844
+  },
+  "PM": {
+   "shares": 50.70918761166943,
+   "cost_basis": 196.0399932861328
+  },
+  "EOG": {
+   "shares": 63.94178118532831,
+   "cost_basis": 155.47000122070312
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-11-09",
- "last_rebalance_week": "2026-W46",
- "total_costs": 322.3836743489929,
+ "last_rebalance": "2026-11-16",
+ "last_rebalance_week": "2026-W47",
+ "total_costs": 352.1913718310394,
  "trades": [
   {
    "date": "2026-08-27",
@@ -559,7 +559,55 @@
    "shares": 61.4812,
    "price": 164.73,
    "reason": "rank 6"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "SELL",
+   "ticker": "JNJ",
+   "shares": 37.5906,
+   "price": 282.55,
+   "reason": "rank 29 > 15"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "SELL",
+   "ticker": "C",
+   "shares": 78.1517,
+   "price": 121.32,
+   "reason": "rank 18 > 15"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "SELL",
+   "ticker": "PANW",
+   "shares": 30.6077,
+   "price": 316.09,
+   "reason": "rank 17 > 15"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "BUY",
+   "ticker": "CVX",
+   "shares": 45.7817,
+   "price": 217.14,
+   "reason": "rank 3"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "BUY",
+   "ticker": "PM",
+   "shares": 50.7092,
+   "price": 196.04,
+   "reason": "rank 6"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "BUY",
+   "ticker": "EOG",
+   "shares": 63.9418,
+   "price": 155.47,
+   "reason": "rank 7"
   }
  ],
- "last_mark": "2026-11-13"
+ "last_mark": "2026-11-16"
 }
