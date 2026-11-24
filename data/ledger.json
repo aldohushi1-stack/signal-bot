@@ -1,6 +1,6 @@
 {
  "created": "2026-08-27",
- "cash": 1856.6489803470831,
+ "cash": 1381.2296511080422,
  "positions": {
   "MU": {
    "shares": 10.674697017962954,
@@ -13,10 +13,6 @@
   "AMD": {
    "shares": 21.670026614650485,
    "cost_basis": 466.8399963378906
-  },
-  "CAT": {
-   "shares": 16.486482229923773,
-   "cost_basis": 613.6199951171875
   },
   "TXN": {
    "shares": 33.49591256679197,
@@ -41,12 +37,16 @@
   "EOG": {
    "shares": 63.94178118532831,
    "cost_basis": 155.47000122070312
+  },
+  "UNH": {
+   "shares": 28.222239839190873,
+   "cost_basis": 336.0799865722656
   }
  },
  "spy_units": 129.68486988216122,
- "last_rebalance": "2026-11-16",
- "last_rebalance_week": "2026-W47",
- "total_costs": 352.1913718310394,
+ "last_rebalance": "2026-11-23",
+ "last_rebalance_week": "2026-W48",
+ "total_costs": 361.44559168124545,
  "trades": [
   {
    "date": "2026-08-27",
@@ -607,7 +607,23 @@
    "shares": 63.9418,
    "price": 155.47,
    "reason": "rank 7"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "SELL",
+   "ticker": "CAT",
+   "shares": 16.4865,
+   "price": 547.04,
+   "reason": "rank 21 > 15"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "BUY",
+   "ticker": "UNH",
+   "shares": 28.2222,
+   "price": 336.08,
+   "reason": "rank 5"
   }
  ],
- "last_mark": "2026-11-20"
+ "last_mark": "2026-11-23"
 }
